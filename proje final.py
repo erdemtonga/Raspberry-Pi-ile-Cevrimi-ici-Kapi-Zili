@@ -23,9 +23,9 @@ while True:
         if GPIO.input(18) == False:
             print("butona basildi")                      
                                                            # Hesap bilgilerimiz
-            kullanici="kapizili.py@gmail.com"
-            kullanici_sifresi = 'erdem123+'
-            alici = 'erdemtonga@yandex.com'              # alıcının mail adresi
+            kullanici="gonderen mail"
+            kullanici_sifresi = 'sifre'
+            alici = 'alici mail'              # alıcının mail adresi
             konu = 'KAPI CALDI'
             msj = 'KAPIDA BIRI VAR'
                                                          # bilgileri bir metinde derledik
